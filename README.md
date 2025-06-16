@@ -1,4 +1,4 @@
-# microfrontend-with-react
+# microfrontend
 
 ## Introduction
 This project is an example of a microfrontend architecture mainly built with React.JS (and a Dashboard in Vue to show multi-frameworks compatibility). It demonstrates how to split a web application into independent modules, each managed and deployed separately. The integration is achieved using Webpack Module Federation for dynamic loading of microfrontends.
